@@ -1,6 +1,7 @@
-[airflow_final.md](https://github.com/user-attachments/files/22576456/airflow_final.md)
+[airflow_final.md](https://github.com/user-attachments/files/22576464/airflow_final.md)
 <div dir="rtl">
 
+<div dir="rtl">
 
 # Apache Airflow
 
@@ -9,6 +10,8 @@
 ### معرفی
 Apache Airflow یک پلتفرم متن‌باز (Open Source) برای **طراحی، زمان‌بندی (Scheduling)، اجرا و مانیتورینگ** جریان‌های کاری (Workflows) است.  
 ایده‌ی اصلی Airflow بر پایه‌ی **Workflows as Code** شکل گرفته است؛ یعنی به‌جای ابزارهای گرافیکی، جریان کار با پایتون تعریف می‌شود و تمام منطق، وابستگی‌ها و پیکربندی‌ها در کد ثبت می‌گردد.
+
+</div>
 
 ### تاریخچه
 Airflow در سال ۲۰۱۴ توسط Airbnb توسعه یافت و در ۲۰۱۹ به **Top-Level Project** بنیاد Apache تبدیل شد. این تغییر باعث بلوغ سریع اکوسیستم و پذیرش گسترده در حوزه‌ی **مدیریت داده و اتوماسیون جریان‌های کاری** شد.
